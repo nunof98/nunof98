@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hello there, I'm Nuno!
 
-<!--
-**nunof98/nunof98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an engineer passionate about building solutions, whether that’s software applications or data-driven systems. I enjoy tackling complex problems and continuously improving my skills in new technologies.
 
-Here are some ideas to get you started:
+### 📚 **Technologies & Tools**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are a few of the tools and technologies I work with:
+  
+ - **Programming Languages:** Python, SQL, C, C++
+
+ - **Frameworks & Libraries:** PyTorch, TensorFlow, FastAPI, Pandas
+
+ - **Databases:** MySQL, PostgreSQL, Microsoft SQL Server
+
+### 📍 **Connect with Me**
+
+ - [LinkedIn](www.linkedin.com/in/nuno-fernandes98)
+
+### 🎮 **My Interests**
+
+Outside of coding, I’m into:
+
+ - 🎬 Movies & TV Shows
+
+ - ♟️ Chess.
+
+ - 🎲 Video Games & Boardgames.
+
+ - 🏞️ Hiking.
+
+Feel free to reach out!
