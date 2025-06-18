@@ -8,24 +8,12 @@ Here are a few of the tools and technologies I work with:
   
  - **Programming Languages:** Python, SQL, C, C++
 
- - **Frameworks & Libraries:** PyTorch, TensorFlow, FastAPI, Pandas
+ - **Frameworks & Libraries:** PyTorch, TensorFlow, FastAPI, Pandas, NumPy
 
  - **Databases:** MySQL, PostgreSQL, Microsoft SQL Server
 
 ### 📍 **Connect with Me**
 
- - [LinkedIn](www.linkedin.com/in/nuno-fernandes98)
-
-### 🎮 **My Interests**
-
-Outside of coding, I’m into:
-
- - 🎬 Movies & TV Shows
-
- - ♟️ Chess.
-
- - 🎲 Video Games & Boardgames.
-
- - 🏞️ Hiking.
+ - [LinkedIn](https://www.linkedin.com/in/nuno-fernandes98)
 
 Feel free to reach out!
